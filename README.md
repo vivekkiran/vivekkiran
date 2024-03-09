@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
 **vivekkiran/vivekkiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- :mailbox: Check out [my LinkedIn](https://www.linkedin.com/in/vivekkiran/) for my professional and academic background
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkiran&layout=compact&hide=html)
 
